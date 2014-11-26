@@ -1,0 +1,5 @@
+E:\pager-project\MyPager\MyPager\bin\Debug\MyPager.exe
+E:\pager-project\MyPager\MyPager\bin\Debug\MyPager.pdb
+E:\pager-project\MyPager\MyPager\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\pager-project\MyPager\MyPager\obj\x86\Debug\MyPager.exe
+E:\pager-project\MyPager\MyPager\obj\x86\Debug\MyPager.pdb
